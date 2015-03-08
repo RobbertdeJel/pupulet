@@ -1,0 +1,69 @@
+SWEP.VElements = {
+	["element_name"] = { type = "Model", model = "models/weapons/w_rif_m4a1.mdl", bone = "ValveBiped.Bip01_R_Hand", rel = "", pos = Vector(0.068, 2.397, -10.247), angle = Angle(0, 98.059, 0), size = Vector(0.5, 0.5, 0.5), color = Color(255, 255, 255, 255), surpresslightning = false, material = "models/flesh", skin = 0, bodygroup = {} }
+}
+
+SWEP.VElements = {
+	["element_name"] = { type = "Model", model = "models/weapons/w_rif_m4a1.mdl", bone = "ValveBiped.Bip01_R_Hand", rel = "", pos = Vector(5.836, 1.488, -13.132), angle = Angle(0, 98.059, 0), size = Vector(0.5, 0.5, 0.5), color = Color(255, 255, 255, 255), surpresslightning = false, material = "models/barnacle/barnacle_sheet", skin = 0, bodygroup = {} }
+}
+
+SWEP.VElements = {
+	["element_name"] = { type = "Model", model = "models/weapons/w_rif_m4a1.mdl", bone = "ValveBiped.Bip01_R_Hand", rel = "", pos = Vector(5.836, 1.488, -13.132), angle = Angle(0, 98.059, 0), size = Vector(0.5, 0.5, 0.5), color = Color(255, 255, 255, 255), surpresslightning = false, material = "models/barnacle/barnacle_sheet", skin = 0, bodygroup = {} }
+}
+
+SWEP.VElements = {
+	["element_name"] = { type = "Model", model = "models/weapons/w_rif_m4a1.mdl", bone = "ValveBiped.Bip01_R_Hand", rel = "", pos = Vector(5.836, 1.488, -13.132), angle = Angle(0, 98.059, 0), size = Vector(0.5, 0.5, 0.5), color = Color(255, 255, 255, 255), surpresslightning = false, material = "models/chairs/armchair", skin = 0, bodygroup = {} }
+}
+
+SWEP.VElements = {
+	["element_name"] = { type = "Model", model = "models/weapons/w_rif_m4a1.mdl", bone = "ValveBiped.Bip01_R_Hand", rel = "", pos = Vector(5.836, 1.488, -13.132), angle = Angle(0, 98.059, 0), size = Vector(0.5, 0.5, 0.5), color = Color(255, 255, 255, 255), surpresslightning = false, material = "models/chairs/armchair", skin = 0, bodygroup = {} }
+}
+SWEP.VElements = {
+	["element_name"] = { type = "Model", model = "models/weapons/w_rif_m4a1.mdl", bone = "ValveBiped.Bip01_R_Hand", rel = "", pos = Vector(5.836, 1.488, -13.132), angle = Angle(0, 98.059, 0), size = Vector(0.5, 0.5, 0.5), color = Color(255, 255, 255, 255), surpresslightning = false, material = "models/characters/secsuit/doodads", skin = 0, bodygroup = {} }
+}
+
+SWEP.VElements = {
+	["element_name"] = { type = "Model", model = "models/weapons/w_rif_m4a1.mdl", bone = "ValveBiped.Bip01_R_Hand", rel = "", pos = Vector(5.836, 1.488, -13.132), angle = Angle(0, 98.059, 0), size = Vector(0.5, 0.5, 0.5), color = Color(255, 255, 255, 255), surpresslightning = false, material = "models/charple/charple2_sheet", skin = 0, bodygroup = {} }
+}
+
+SWEP.VElements = {
+	["element_name"] = { type = "Model", model = "models/weapons/w_rif_m4a1.mdl", bone = "ValveBiped.Bip01_R_Hand", rel = "", pos = Vector(5.836, 1.488, -13.132), angle = Angle(0, 98.059, 0), size = Vector(0.5, 0.5, 0.5), color = Color(255, 255, 255, 255), surpresslightning = false, material = "models/combine_apc/apc01blue", skin = 0, bodygroup = {} }
+}
+
+SWEP.VElements = {
+	["element_name"] = { type = "Model", model = "models/weapons/w_rif_m4a1.mdl", bone = "ValveBiped.Bip01_R_Hand", rel = "", pos = Vector(5.836, 1.488, -13.132), angle = Angle(0, 98.059, 0), size = Vector(0.5, 0.5, 0.5), color = Color(255, 255, 255, 255), surpresslightning = false, material = "models/combine_citadel/combine_citadel001", skin = 0, bodygroup = {} }
+}
+
+SWEP.VElements = {
+	["element_name"] = { type = "Model", model = "models/weapons/w_rif_m4a1.mdl", bone = "ValveBiped.Bip01_R_Hand", rel = "", pos = Vector(5.836, 1.488, -13.132), angle = Angle(0, 98.059, 0), size = Vector(0.5, 0.5, 0.5), color = Color(255, 255, 255, 255), surpresslightning = false, material = "models/combine_helicopter/combine_helicopter01", skin = 0, bodygroup = {} }
+}
+
+SWEP.VElements = {
+	["element_name"] = { type = "Model", model = "models/weapons/w_rif_m4a1.mdl", bone = "ValveBiped.Bip01_R_Hand", rel = "", pos = Vector(5.836, 1.488, -13.132), angle = Angle(0, 98.059, 0), size = Vector(0.5, 0.5, 0.5), color = Color(255, 255, 255, 255), surpresslightning = false, material = "models/combine_soldier/combine_elite", skin = 0, bodygroup = {} }
+}
+
+SWEP.VElements = {
+	["element_name"] = { type = "Model", model = "models/weapons/w_rif_m4a1.mdl", bone = "ValveBiped.Bip01_R_Hand", rel = "", pos = Vector(5.836, 1.488, -13.132), angle = Angle(0, 98.059, 0), size = Vector(0.5, 0.5, 0.5), color = Color(255, 255, 255, 255), surpresslightning = false, material = "models/combine_turrets/ceiling_turret/combine_gun003", skin = 0, bodygroup = {} }
+}
+
+SWEP.VElements = {
+	["element_name"] = { type = "Model", model = "models/weapons/w_rif_m4a1.mdl", bone = "ValveBiped.base", rel = "", pos = Vector(2.065, -2.297, -15.454), angle = Angle(180, 178.229, 89.62), size = Vector(0.5, 0.5, 0.5), color = Color(255, 255, 255, 255), surpresslightning = false, material = "models/de_piranesi/pi_apc", skin = 0, bodygroup = {} }
+}
+SWEP.VElements = {
+	["element_name"] = { type = "Model", model = "models/weapons/w_rif_m4a1.mdl", bone = "ValveBiped.base", rel = "", pos = Vector(2.065, -2.297, -15.454), angle = Angle(180, 178.229, 89.62), size = Vector(0.5, 0.5, 0.5), color = Color(255, 255, 255, 255), surpresslightning = false, material = "models/props_wasteland/boat_fishing01a", skin = 0, bodygroup = {} }
+}
+
+SWEP.VElements = {
+	["element_name"] = { type = "Model", model = "models/weapons/w_rif_m4a1.mdl", bone = "ValveBiped.base", rel = "", pos = Vector(2.065, -2.297, -15.454), angle = Angle(180, 178.229, 89.62), size = Vector(0.5, 0.5, 0.5), color = Color(255, 255, 255, 255), surpresslightning = false, material = "models/xqm/2deg360_diffuse", skin = 0, bodygroup = {} }
+}
+
+SWEP.VElements = {
+	["element_name"] = { type = "Model", model = "models/weapons/w_rif_m4a1.mdl", bone = "ValveBiped.base", rel = "", pos = Vector(2.065, -2.297, -15.454), angle = Angle(180, 178.229, 89.62), size = Vector(0.5, 0.5, 0.5), color = Color(255, 255, 255, 255), surpresslightning = false, material = "models/xqm/hoverboard_diffuse", skin = 0, bodygroup = {} }
+}
+
+SWEP.VElements = {
+	["element_name"] = { type = "Model", model = "models/weapons/w_rif_m4a1.mdl", bone = "ValveBiped.base", rel = "", pos = Vector(2.065, -2.297, -15.454), angle = Angle(180, 178.229, 89.62), size = Vector(0.5, 0.5, 0.5), color = Color(255, 255, 255, 255), surpresslightning = false, material = "models/xqm/squaredmatinverted", skin = 0, bodygroup = {} }
+}
+
+SWEP.VElements = {
+	["element_name"] = { type = "Model", model = "models/weapons/w_mach_m249para.mdl", bone = "ValveBiped.Bip01_R_Hand", rel = "", pos = Vector(-0.213, 7.809, -10.4), angle = Angle(0, 83.123, 0), size = Vector(0.5, 0.5, 0.5), color = Color(255, 255, 255, 255), surpresslightning = true, material = "models/hevsuit/hevsuit_sheet", skin = 0, bodygroup = {} }
+}

@@ -1,0 +1,13 @@
+"pupulet"
+{
+	"menusystem"		"1"
+	"name"		"pufu's awesome gamemode"
+	"version"	"1.0"
+ 
+	"author_name"	"Rob"
+	"author_email"	"Robbert de Jel"
+	"author_url"	"N/A"
+ 
+	"info"		"A very simpel gamemode."
+}
+ 
